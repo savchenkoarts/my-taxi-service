@@ -16,7 +16,7 @@ A simple web-application that supports authentication, registration and other CR
 
 ## 🎯 Features:
 
-<img src="img/taxi-service.gif" align="right" width="200">
+<img src="img/taxi-service.gif" align="right" width="240">
 
 - `registration` like a driver;
 - `authentication` like a driver;
