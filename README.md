@@ -31,7 +31,7 @@ A simple web-application that supports authentication, registration and other CR
 
 ## Used technologies
 
-`Java 11`, `Servlet`, `JDBC`, `JSP`, `Maven` ...
+`Java 11`, `Servlet`, `JDBC`, `JSP`, `JSTL`, `Maven`, `HTML`, `CSS`
 
 ## ⚙️Installation:
 
@@ -60,9 +60,10 @@ INSERT INTO drivers (name, license_number, login, password) VALUE ('Admin', 'ABB
 
 **Example:**
 ```java
-private static final String URL = "jdbc:mysql://localhost:3306/taxi";
-private static final String USERNAME = "root";
-private static final String PASSWORD = "1234";
+private static final String URL = "YOUR_URL";
+private static final String USERNAME = "YOUR_USERNAME";
+private static final String PASSWORD = "YOUR_PASSWORD";
+private static final String JDBC_DRIVER = "YOUR_JDBC_DRIVER";
 ```
 
 - Run the project using Tomcat 9.0.50
