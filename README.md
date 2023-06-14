@@ -12,7 +12,7 @@
 A simple web-application that supports authentication, registration and other CRUD operations.
 ```
 
-> [Demo link](http://java-web-security.us-east-1.elasticbeanstalk.com/) - deploying on Amazon Web Services (AWS)
+> <p><a href="http://java-web-security.us-east-1.elasticbeanstalk.com/" target="_blank">Demo link</a> - deploying on Amazon Web Services (AWS)</p>
 
 ## 🎯 Features:
 
