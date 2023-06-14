@@ -12,7 +12,7 @@
 A simple web-application that supports authentication, registration and other CRUD operations.
 ```
 
-> [Demo link](https://java-web-security.herokuapp.com/) - deploying on Heroku
+> [Demo link](http://java-web-security.us-east-1.elasticbeanstalk.com/) - deploying on Amazon Web Services (AWS)
 
 ## 🎯 Features:
 
