@@ -12,7 +12,7 @@
 A simple web-application that supports authentication, registration and other CRUD operations.
 ```
 
-> [Demo link](http://java-web-security.us-east-1.elasticbeanstalk.com/) - deploying on Amazon Web Services (AWS)
+> [Demo link](https://taxi.codecorner.com.ua/) - deployed on hosting with Tomcat 8.5.89 and Java 11.0.19
 
 ## 🎯 Features:
 
